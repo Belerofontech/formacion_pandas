@@ -6,6 +6,11 @@
     * Manejo básico
     * Instalación de paquetes
     * Atajos de teclado
+* Introducción a Python
+  * Espacios
+  * Comentarios
+  * Palabras reservadas
+  * bloques básicos
 
 
     
