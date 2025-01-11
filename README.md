@@ -4,7 +4,7 @@
     * Instalación de paquetes
       * conda
       * pip
-* Instalación de Visual Studio Code
+* Instalación de Visual Studio Code:
     * Manejo básico
     * Instalación de paquetes
     * scripts vs. notebooks
@@ -31,10 +31,14 @@
     * enumerate
   * Objetos básicos:
     * int
-    * float
     * bool
+    * float
+    * complex
     * str
       * interpolación de cadenas
+        * Método %
+        * Format
+        * Fstrings
     * datetime
   * Contenedores:
     * list
@@ -49,6 +53,7 @@
     * dict
     * set
     * frozenset
+  * Todo es un objeto
   * Funciones:
     * Construcción de funciones
     * Programación funcional: zip, map, filter, reduce
